@@ -19,7 +19,7 @@
     ],
     "[python]": {
         "editor.codeActionsOnSave": {
-            "source.organizeImports": false
+            "source.organizeImports": "false"
         },
     },
     "python.linting.mypyEnabled": true,
